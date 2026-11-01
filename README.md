@@ -15,4 +15,4 @@ Diseño de la base de datos de una empresa retail, realizado como trabajo acadé
 
 MySQL, MySQL Workbench y SQL.
 
-El control de acceso de esta base de datos está en [empresa-retail-admin](https://github.com/MariioDk/empresa-retail-admin).
+El control de acceso de esta base de datos está en [empresa-retail-admin](https://github.com/luis-chamizo/empresa-retail-admin).
